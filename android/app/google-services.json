@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085706786379",
+    "project_id": "cse-dev-b7d0d",
+    "storage_bucket": "cse-dev-b7d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085706786379:android:eadb3676a73f087de6dfce",
+        "android_client_info": {
+          "package_name": "cse.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085706786379-1lq6vqfd8437gpegjgq44trsrlld4ecv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoEUI8gUimjvN24nnjkSa_6MqpzUkK50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085706786379-1lq6vqfd8437gpegjgq44trsrlld4ecv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085706786379-a9hsd66lsh6clh1ui0s0bbvqg602v797.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cse.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
